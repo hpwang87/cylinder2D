@@ -12,37 +12,37 @@ FoamFile
     bottom
     {
         type patch;
-        nFaces 997;
-        startFace 1730782;
+        nFaces 547;
+        startFace 313132;
     }
     cylinder
     {
         type wall;
         nFaces 196;
-        startFace 1731779;
+        startFace 313679;
     }
     frontandback
     {
         type empty;
-        nFaces 1732724;
-        startFace 1731975;
+        nFaces 314024;
+        startFace 313875;
     }
     inlet
     {
         type patch;
-        nFaces 847;
-        startFace 3464699;
+        nFaces 247;
+        startFace 627899;
     }
     outlet
     {
         type patch;
-        nFaces 847;
-        startFace 3465546;
+        nFaces 247;
+        startFace 628146;
     }
     top
     {
         type patch;
-        nFaces 997;
-        startFace 3466393;
+        nFaces 547;
+        startFace 628393;
     }
 )
